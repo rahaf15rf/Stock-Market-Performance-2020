@@ -17,3 +17,6 @@ This project showcases a professional stock market performance analysis for the 
 ## Tools & Technologies
 - **Data Analysis & Visualization:** Tableau
 - **Data Context:** Financial Market Analysis (Simulation)
+---
+## Acknowledgments
+This project was developed as part of the Data Analysis and Visualization program at Tuwaiq Academy.
