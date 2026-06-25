@@ -1,5 +1,5 @@
+ Stock Market Performance Analysis 2020
 <img width="1920" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/3c6c4053-9d85-4acb-a762-203b0149bdd6" />
-# Stock Market Performance Analysis 2020
 
 ## Overview
 This project showcases a professional stock market performance analysis for the year 2020. The dashboard provides a visual breakdown of market trends, trading volumes, and price fluctuations for several major companies.
