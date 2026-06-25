@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Dashboard" src="https://github.com/user-attachments/assets/3c6c4053-9d85-4acb-a762-203b0149bdd6" />
 # Stock Market Performance Analysis 2020
 
 ## Overview
